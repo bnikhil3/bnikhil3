@@ -27,6 +27,22 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 </p>
 
 ---
+### 💡 A Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln&font=monospace&fontSize=20&align=center" alt="Minimalist Neon Glow Quote" width="100%" />
+</p>
+### 💡 A Quote:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BuchipalliNikhilaanandam/Custom-Readme-Assets/main/quote_hacker_style.svg" alt="Gradient Hacker Style Quote" width="100%" />
+</p>
+### 💡 A Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln&font=Segoe%20UI&fontSize=22&bgColor=%231a1a2e&textColor=%2300ffff&borderColor=%23ff00ff&borderWidth=3" alt="Gradient Hacker Style Quote" width="100%" />
+</p>
+### 💡 A Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln&font=Fira%20Code&fontSize=18&borderRadius=5&padding=20" alt="Subtle Code Block Quote" width="100%" />
+</p>
 
 ### 🛠️ My Tech Stack:
 
