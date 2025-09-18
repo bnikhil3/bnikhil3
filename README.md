@@ -24,22 +24,30 @@
       - **Virtual Intern** at **Shell** (Apr 2025 - May 2025)
         - Built a deep learning model to predict plant leaf diseases, improving accuracy from 80% to **87%**.
         - Increased model performance by reducing data noise by 25% through better preprocessing and optimization techniques.
+
+      ---
+
+      ### 🚀 Projects Showcase
+      | Project | Description | Tech |
+      |---|---|---|
+      | **Speech Emotion Recognition** | Recognizes emotion from speech using ML. | Python, Wav2Vec2, PyTorch |
+      | **Blockchain Voting System** | Secure voting system with zero-knowledge verification. | Python, Diffie-Hellman |
+      | **Mini Food Ordering App** | A React Native app with Firebase backend. | React Native, Firebase |
+      | **AI Cloud Cluster Detector** | Detects tropical clouds using satellite data. | Python, TensorFlow |
+
     </td>
     <td width="30%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/BuchipalliNikhilaanandam/Assets/main/right_side_animation.gif" alt="Right-side Animation" width="100%">
+      
+      <br>
+      <br>
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Your Top Languages" />
+      
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Projects Showcase
-| Project | Description | Tech |
-|---|---|---|
-| **Speech Emotion Recognition** | Recognizes emotion from speech using ML. | Python, Wav2Vec2, PyTorch |
-| **Blockchain Voting System** | Secure voting system with zero-knowledge verification. | Python, Diffie-Hellman |
-| **Mini Food Ordering App** | A React Native app with Firebase backend. | React Native, Firebase |
-| **AI Cloud Cluster Detector** | Detects tropical clouds using satellite data. | Python, TensorFlow |
 
 ---
 
@@ -52,13 +60,6 @@
   - Python Essentials 1 (Cisco)
   - Cybersecurity Essentials (Cisco)
   - Data Analytics & Visualization (Accenture)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Your Top Languages" />
-</p>
 
 ---
 
