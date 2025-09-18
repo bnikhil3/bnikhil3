@@ -2,133 +2,74 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Buchipalli+Nikhilaanandam;AI+%26+ML+Enthusiast;Cybersecurity+Learner+💻" alt="Typing SVG"/>
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BuchipalliNikhilaanandam/Assets/main/hacker_header.png" alt="Hacker Header" width="100%">
-</div>
-
-<p align="center">
-<samp>
-> Initializing profile...<br>
-> Access granted.<br>
-> Authenticating user: NIKHILAANANDAM<br>
-</samp>
-</p>
-
-
-<br>
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ ABOUT ME ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;
-  &lt;samp&gt;
-    &gt; [cite_start]Motivated Computer Science undergraduate specializing in AI &amp; ML[cite: 5].&lt;br&gt;
-    &gt; [cite_start]Skilled in developing scalable and efficient software solutions[cite: 6].&lt;br&gt;
-    &gt; [cite_start]Enthusiastic about applying technical knowledge to solve real-world challenges[cite: 7].&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/p&gt;
-
------
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ WORK EXPERIENCE ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;
-  &lt;samp&gt;
-    &gt; [cite_start]**Edunet Foundation** (AI &amp; ML Intern) [cite: 9] [Jun 2025 - Jul 2025]&lt;br&gt;
-    &gt; [cite_start]Built a machine learning model for salary prediction with 84% accuracy[cite: 11].&lt;br&gt;
-    &gt; [cite_start]Improved prediction accuracy from 10% to 5% with hyperparameter tuning[cite: 12].&lt;br&gt;&lt;br&gt;
-    &gt; [cite_start]**Shell** (Virtual Intern) [cite: 14] [Apr 2025 - May 2025]&lt;br&gt;
-    &gt; [cite_start]Developed a deep learning model for plant leaf disease prediction (87% accuracy)[cite: 16].&lt;br&gt;
-    &gt; [cite_start]Optimized model performance by reducing data noise by 25%[cite: 17].&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/p&gt;
-
------
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ EDUCATION ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;
-  &lt;samp&gt;
-    &gt; [cite_start]**B.Tech in Computer Science and Engineering (AI &amp; ML)** [cite: 20]&lt;br&gt;
-    &gt; [cite_start]Vel Tech Rangarajan Dr. Sagunthala R&amp;D Institute of Science &amp; Technology [cite: 19]&lt;br&gt;
-    &gt; [cite_start]CGPA: 8.9/10 [cite: 21]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/p&gt;
-
------
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ PROJECTS ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;
-  &lt;samp&gt;
-    &gt; **Speech Emotion Recognition**&lt;br&gt;
-    &gt; [cite_start]Al agent system with 99% classification accuracy using Wav2Vec2 and a transformer-based model[cite: 28, 29].&lt;br&gt;&lt;br&gt;
-    &gt; **Personalized Investment Recommendation System**&lt;br&gt;
-    &gt; [cite_start]Recommendation engine that improved portfolio return optimization accuracy by 18%[cite: 32].&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/p&gt;
-
------
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ SKILLS &amp; CERTIFICATIONS ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [cite_start]**Languages:** &lt;kbd&gt;Python&lt;/kbd&gt; &lt;kbd&gt;Java&lt;/kbd&gt; &lt;kbd&gt;SQL&lt;/kbd&gt; [cite: 35]&lt;br&gt;
-    [cite_start]**Concepts:** &lt;kbd&gt;Machine Learning&lt;/kbd&gt; &lt;kbd&gt;DSA&lt;/kbd&gt; &lt;kbd&gt;OOP&lt;/kbd&gt; [cite: 37]&lt;br&gt;
-    [cite_start]**Tools:** &lt;kbd&gt;Git&lt;/kbd&gt; &lt;kbd&gt;GitHub&lt;/kbd&gt; &lt;kbd&gt;REST API&lt;/kbd&gt; [cite: 37]&lt;br&gt;
-    &lt;br&gt;
-    **Certifications:**&lt;br&gt;
-    &lt;br&gt;
-    &gt; [cite_start]&lt;kbd&gt;Cisco: Python Essentials 1&lt;/kbd&gt; [cite: 41]&lt;br&gt;
-    &gt; [cite_start]&lt;kbd&gt;Cisco: Cybersecurity Essentials&lt;/kbd&gt; [cite: 41]&lt;br&gt;
-    &gt; [cite_start]&lt;kbd&gt;Accenture: Data Analytics &amp; Visualization&lt;/kbd&gt; [cite: 42]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/p&gt;
-
------
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ LATEST BLOG POSTS ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
-&lt;br&gt;
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ DAILY MOTIVATIONAL QUOTE ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
 ---
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;samp&gt;
-    [ CONNECT ]&lt;br&gt;
-  &lt;/samp&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;https://www.linkedin.com/in/your-linkedin-profile&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn Badge&quot;&gt;&lt;/a&gt;
-  &lt;a href=&quot;https://twitter.com/your-twitter-handle&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&quot; alt=&quot;Twitter Badge&quot;&gt;&lt;/a&gt;
-  &lt;a href=&quot;https://medium.com/@your-medium-handle&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white&quot; alt=&quot;Medium Badge&quot;&gt;&lt;/a&gt;
-&lt;/p&gt;
+### 🧑‍💻 About Me
+<p>
+  I'm a motivated Computer Science undergraduate specializing in AI & ML, with hands-on experience in internships and academic projects. I'm skilled in developing scalable and efficient software solutions using modern tools and data-driven methods, and I'm enthusiastic about applying my technical knowledge to solve real-world challenges.
+</p>
+
+---
+
+### 💼 Work Experience
+- **AI & ML Intern** at **Edunet Foundation** (Jun 2025 - Jul 2025)
+  - Built a machine learning model to predict salaries with **84% accuracy**.
+  - Improved prediction accuracy by reducing error from 10% to 5% through hyperparameter tuning.
+- **Virtual Intern** at **Shell** (Apr 2025 - May 2025)
+  - Built a deep learning model to predict plant leaf diseases, improving accuracy from 80% to **87%**.
+  - Increased model performance by reducing data noise by 25%.
+
+---
+
+### 🚀 Projects Showcase
+| Project | Description | Tech |
+|---|---|---|
+| **Speech Emotion Recognition** | Recognizes emotion from speech using ML. | Python, Wav2Vec2, PyTorch |
+| **Blockchain Voting System** | Secure voting system with zero-knowledge verification. | Python, Diffie-Hellman |
+| **Mini Food Ordering App** | A React Native app with Firebase backend. | React Native, Firebase |
+| **AI Cloud Cluster Detector** | Detects tropical clouds using satellite data. | Python, TensorFlow |
+
+---
+
+### 🛠️ Skills & Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
+  <img src="https://shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge">
+</p>
+
+- **Certifications:**
+  - Python Essentials 1 (Cisco)
+  - Cybersecurity Essentials (Cisco)
+  - Data Analytics & Visualization (Accenture)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Your Top Languages" />
+</p>
+
+---
+
+### ✍️ Latest Blog Posts
+---
+
+### 💬 Daily Motivational Quote
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://medium.com/@your-medium-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=green" alt="Profile views" />
+</p>
