@@ -27,6 +27,9 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 <p align="center">
   <img src="https://quotes-api-self.vercel.app/quote" alt="Quote of the day" />
 </p>
+
+---
+
 ### 💡 A Quote:
 <p align="center">
   <img src="https://github-readme-daily-quotes.vercel.app/api?theme=dark&category=motivational" alt="Daily Motivational Quote" />
