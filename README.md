@@ -23,8 +23,9 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 ### 💡 A Quote:
 
+### 💡 A Quote:
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal&quote=The best way to predict the future is to create it.&author=Abraham Lincoln" alt="A different quote" width="100%" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in&theme=dark" alt="Animated Quote" />
 </p>
 
 
