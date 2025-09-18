@@ -114,7 +114,8 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
     <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" />
   </a>
   <a href="https://nikhilaanandam.github.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/000000" alt="Portfolio" height="30" />
+   <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/f7de0b31-4e5b-44d3-98e5-060878cebb11" />
+
   </a>
 </p>
 
