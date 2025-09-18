@@ -23,7 +23,7 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 ### 💡 A Quote:
 
-### 💡 A Quote:
+
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in&theme=dark" alt="Animated Quote" />
 </p>
