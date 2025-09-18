@@ -8,15 +8,15 @@
 
 ---
 
-## 🌟 Key Highlights
+## 🌟 Highlights
 - Final-year **Computer Science & Engineering** student specializing in **AI & ML**  
 - Research projects in **speech emotion recognition, cloud AI, blockchain voting**  
 - Certified in **Cybersecurity, AWS, and Cloud Foundations**  
-- Open-source contributor and active in **AI & ML internships**  
+- Active **open-source contributor** and AI/ML intern  
 
 ---
 
-## 🚀 Project Showcase
+## 🚀 Projects
 | Project | Demo |
 |---------|------|
 | Mini Food App | [![Demo](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)](https://github.com/BuchipalliNikhilaanandam/MiniFoodApp) |
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Skills & Tech
+## 🛠 Skills
 <p align="center">
   ![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge)
   ![Java](https://img.shields.io/badge/Java-85%25-yellow?style=for-the-badge)
@@ -50,7 +50,7 @@
 ---
 
 ## 📚 Research & Publications
-- [Speech Emotion Recognition Project](https://github.com/BuchipalliNikhilaanandam/SpeechEmotionRecognition)  
+- [Speech Emotion Recognition](https://github.com/BuchipalliNikhilaanandam/SpeechEmotionRecognition)  
 - [AI Cloud Cluster Detection](https://github.com/BuchipalliNikhilaanandam/AICloudDetector)  
 - [Blockchain-based Voting System](https://github.com/BuchipalliNikhilaanandam/BlockchainVoting)  
 
@@ -61,6 +61,7 @@
 
 ---
 
+## ✨ Motivational Quotes
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=%22Stay+Hungry,+Stay+Foolish%22;%22Code+with+Passion%22;%22AI+is+the+Future%22" alt="Rotating Quotes"/>
 </p>
@@ -82,7 +83,7 @@
 
 ---
 
-## 📈 Visitor Counter & GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BuchipalliNikhilaanandam&style=flat-square&color=green" alt="Visitor Count"/>
   <br>
