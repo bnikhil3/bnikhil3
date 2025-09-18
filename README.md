@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BuchipalliNikhilaanandam/Assets/main/3d_header.png" alt="3D AI Header" width="100%">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/16883107106439997485_0" alt="3D AI Header" width="100%">
 </p>
 
 <h1 align="center">
@@ -14,6 +14,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/15064642693496047995_0" alt="Neural Network Divider" width="700">
+</p>
 
 ### 🚀 Work Experience
 
@@ -45,6 +49,10 @@
 
 ---
 
+<p align="center">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/17633561429106532960_0" alt="Cybersecurity Abstract Art" width="700">
+</p>
+
 ### 🛠️ Skills & Certifications
 
 #### Skills
@@ -52,7 +60,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge">
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-informational?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA Badge">
