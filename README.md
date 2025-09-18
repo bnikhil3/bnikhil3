@@ -23,7 +23,10 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 ### 💡 A Quote:
 <p align="center">
-  <img src="https://i.ibb.co/6803h0b/polaroid-quote.png" alt="Polaroid Style Quote" width="450" />
+  <img src="https://img.shields.io/badge/—%20“The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.”%20—-%233776AB?style=flat&labelColor=1a1a1a&logo=github&logoColor=FFFFFF" alt="Framed Quote" />
+  <br>
+  <br>
+  - Abraham Lincoln
 </p>
 
 ---
