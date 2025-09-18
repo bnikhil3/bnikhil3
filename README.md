@@ -3,30 +3,19 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Buchipalli+Nikhilaanandam;AI+%26+ML+Enthusiast;Adaptive+Learner+💻" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Buchipalli+Nikhilaanandam;AI+%26+ML+Enthusiast;Cybersecurity+Learner+💻" alt="Typing SVG"/>
 </h1>
 
 ---
 
 ### 🚀 Interactive Project Showcase
 
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <a href="https://github.com/your-username/speech-emotion-recognition" style="display: inline-block; margin: 10px; text-decoration: none; color: inherit;">
-    <img src="https://media.giphy.com/media/3o7TKLkA1A6y0WzU8k/giphy.gif" alt="Speech Emotion Recognition" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Speech Emotion Recognition</p>
-    <p style="text-align: center; font-size: 0.9em;">Recognizes emotion from speech using Wav2Vec2.</p>
-  </a>
-  <a href="https://github.com/your-username/blockchain-voting-system" style="display: inline-block; margin: 10px; text-decoration: none; color: inherit;">
-    <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Blockchain Voting System" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Blockchain Voting System</p>
-    <p style="text-align: center; font-size: 0.9em;">A secure, decentralized voting application.</p>
-  </a>
-  <a href="https://github.com/your-username/food-ordering-app" style="display: inline-block; margin: 10px; text-decoration: none; color: inherit;">
-    <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Mini Food Ordering App" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Mini Food Ordering App</p>
-    <p style="text-align: center; font-size: 0.9em;">React Native app with Firebase backend.</p>
-  </a>
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Speech Emotion Recognition** | Recognizes emotion from speech using ML | Python, Wav2Vec2, PyTorch |
+| **Blockchain Voting System** | Secure voting system with zero-knowledge verification | Python, Diffie-Hellman |
+| **Mini Food Ordering App** | React Native app with Firebase backend | React Native, Firebase |
+| **AI Cloud Cluster Detector** | Detects tropical clouds using satellite data | Python, TensorFlow |
 
 ---
 
@@ -63,24 +52,10 @@
 
 ---
 
-### 🎧 Currently Listening
----
-
 ### ✍️ Latest Blog Posts
-- [How to Build an Ultra-Modern GitHub README](https://medium.com/@your-username/your-article-link)
-- [Deep Learning with PyTorch: A Quick Start Guide](https://medium.com/@your-username/your-article-link)
 ---
 
-### 💬 Motivational Quote & Visitor Count
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Stay+Hungry,+Stay+Foolish;Code+with+Passion;AI+is+the+Future" alt="Rotating Quotes"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=green" alt="Profile views" />
-</p>
-
+### 💬 Daily Motivational Quote
 ---
 
 ### 🔗 Connect With Me
