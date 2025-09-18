@@ -26,6 +26,8 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Life is 10% what happens to you and 90% how you react to it.;-Charles R. Swindoll" alt="Animated Quote" />
 </p>
+
+
 ---
 
 
