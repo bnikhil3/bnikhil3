@@ -11,16 +11,6 @@
 
 ---
 
-### 💼 Work Experience
-- **AI & ML Intern** at **Edunet Foundation** (Jun 2025 - Jul 2025)
-  - Built a machine learning model to predict salaries with **84% accuracy**.
-  - Improved prediction accuracy by reducing error from 10% to 5% through hyperparameter tuning.
-- **Virtual Intern** at **Shell** (Apr 2025 - May 2025)
-  - Built a deep learning model to predict plant leaf diseases, improving accuracy from 80% to **87%**.
-  - Increased model performance by reducing data noise by 25%.
-
----
-
 ### 🚀 Projects Showcase
 | Project | Description | Tech |
 |---|---|---|
