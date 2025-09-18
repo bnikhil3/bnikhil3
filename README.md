@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Buchipalli Nikhilaanandam
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4c3h5eWw5azR4amFzZjl3a3J1aWJicWdqOXU1bGJreTU2NmY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0e4KxL3h1f612T5B/giphy.gif" alt="Pixel Art GIF" width="100%" />
+  <img src="https://media.giphy.com/media/Q8uUqGqM3z2Q/giphy.gif" alt="Pixel Art GIF" width="100%" />
 </p>
 
 <h1 align="center">
@@ -23,7 +23,7 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 ### 💡 A Quote:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BuchipalliNikhilaanandam/BuchipalliNikhilaanandam/main/quote.svg" alt="A different quote" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="A different quote" width="100%" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:nikhilaanandam@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://nikhilaanandam.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
