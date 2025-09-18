@@ -8,59 +8,66 @@
 
 ---
 
-### 👋 About Me
+<br>
+<p align="center">
+  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/about_me.png?raw=true" width="500" alt="About Me Section"> </picture></b>
+</p>
 <p>
-  I'm a motivated Computer Science undergraduate specializing in AI & ML, with hands-on experience in internships and academic projects. I am skilled in developing scalable and efficient software solutions using modern tools and data-driven methods, and I am enthusiastic about applying my technical knowledge to solve real-world challenges.
+  [cite_start]I'm a motivated Computer Science undergraduate specializing in AI & ML, with hands-on experience in internships and academic projects[cite: 5, 7]. [cite_start]I am skilled in developing scalable and efficient software solutions using modern tools and data-driven methods, and I am enthusiastic about applying my technical knowledge to solve real-world challenges and contribute to innovative technology-driven solutions[cite: 6, 7].
 </p>
 
 ---
 
+<br>
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/15064642693496047995_0" alt="Neural Network Divider" width="700">
+  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/work_experience.png?raw=true" width="500" alt="Work Experience Section"> </picture></b>
 </p>
-
-### 🚀 Work Experience
 
 | Role | Company | Dates | Key Achievements |
 |:---|:---|:---|:---|
-| **AI & ML Intern** | Edunet Foundation (AICTE & IBM SkillsBuild) | Jun 2025 - Jul 2025 | Built a machine learning model to predict salaries with 84% accuracy. Improved prediction accuracy by reducing error from 10% to 5% through hyperparameter tuning and repeated testing. |
-| **Virtual Intern** | Shell (AICTE & Edunet Foundation) | Apr 2025 - May 2025 | Built a machine learning model to predict plant leaf diseases, improving accuracy from 80% to 87% using Python and deep learning. Increased model performance by reducing data noise by 25% through better preprocessing and optimization techniques. |
+| **AI & ML Intern** | [cite_start]Edunet Foundation (AICTE & IBM SkillsBuild) [cite: 9] | [cite_start]Jun 2025 - Jul 2025 [cite: 10] | [cite_start]Built a machine learning model to predict salaries with 84% accuracy[cite: 11]. [cite_start]Improved prediction accuracy by reducing error from 10% to 5% through hyperparameter tuning and repeated testing[cite: 12]. |
+| **Virtual Intern** | [cite_start]Shell (AICTE & Edunet Foundation) [cite: 13] | [cite_start]Apr 2025 - May 2025 [cite: 15] | [cite_start]Built a machine learning model to predict plant leaf diseases, improving accuracy from 80% to 87%[cite: 16]. [cite_start]Increased model performance by reducing data noise by 25% through better preprocessing and optimization techniques[cite: 17]. |
 
 ---
 
-### 🎓 Education
+<br>
+<p align="center">
+  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/education.png?raw=true" width="500" alt="Education Section"> </picture></b>
+</p>
 
-* **B.Tech in Computer Science and Engineering (AI & ML)**
-    * **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology, Chennai, India**
-    * **CGPA:** 8.9/10
-    * **Relevant Courses:** Operating Systems, Software Engineering, AI, ML
+* [cite_start]**B.Tech in Computer Science and Engineering (AI & ML)** [cite: 20]
+    * [cite_start]**Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology, Chennai, India** [cite: 19, 3]
+    * [cite_start]**CGPA:** 8.9/10 [cite: 21]
+    * [cite_start]**Relevant Courses:** Operating Systems, Software Engineering, AI, ML [cite: 22]
 
 ---
 
-### 💻 Projects
+<br>
+<p align="center">
+  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/projects.png?raw=true" width="500" alt="Projects Section"> </picture></b>
+</p>
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Speech Emotion Recognition** | An AI agent system for speech emotion recognition using a transformer-based model, achieving 99% classification accuracy. It applies tools like Wav2Vec2 and core AI/ML concepts. | Python, Wav2Vec2, Docker |
-| **Personalized Investment Recommendation System** | A recommendation engine that improved portfolio return optimization accuracy by 18%. It also includes an interactive Flask dashboard with Plotly visualizations, increasing user engagement by 25%. | Python, Pandas, Scikit-learn, Flask, PostgreSQL, Plotly |
+| **Speech Emotion Recognition** | [cite_start]An AI agent system for speech emotion recognition using a transformer-based model, achieving 99% classification accuracy[cite: 28]. [cite_start]It applies tools like Wav2Vec2 and core AI/ML concepts while developing backend components and agent infrastructure for intelligent systems[cite: 29]. | [cite_start]Python, Wav2Vec2, Docker [cite: 25] |
+| **Personalized Investment Recommendation System** | [cite_start]A recommendation engine that improved portfolio return optimization accuracy by 18%, tailoring suggestions based on user risk profile, income, and financial goals[cite: 32]. [cite_start]It also includes an interactive Flask dashboard with Plotly visualizations, increasing user engagement by 25% through real-time investment trend analysis and performance predictions[cite: 33]. | [cite_start]Python, Pandas, Scikit-learn, Flask, PostgreSQL, Plotly [cite: 31] |
 | **Blockchain Voting System** | Secure voting system with zero-knowledge verification | Python, Diffie-Hellman |
 | **Mini Food Ordering App** | React Native app with Firebase backend | React Native, Firebase |
 | **AI Cloud Cluster Detector** | Detects tropical clouds using satellite data | Python, TensorFlow |
 
 ---
 
+<br>
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/17633561429106532960_0" alt="Cybersecurity Abstract Art" width="700">
+  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/skills.png?raw=true" width="500" alt="Skills Section"> </picture></b>
 </p>
-
-### 🛠️ Skills & Certifications
 
 #### Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge">
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-informational?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA Badge">
@@ -69,11 +76,16 @@
 </p>
 
 #### Certifications
-* **Python Essentials 1** - Cisco
-* **Cybersecurity Essentials** - Cisco
-* **Data Analytics & Visualization** - Accenture (Forage)
+* [cite_start]**Python Essentials 1** - Cisco [cite: 41, 45]
+* [cite_start]**Cybersecurity Essentials** - Cisco [cite: 41, 45]
+* [cite_start]**Data Analytics & Visualization** - Accenture (Forage) [cite: 42, 46]
 
 ---
+
+<br>
+<p align="center">
+  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/blog_posts.png?raw=true" width="500" alt="Blog Posts Section"> </picture></b>
+</p>
 
 ### ✍️ Latest Blog Posts
 ---
