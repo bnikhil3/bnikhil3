@@ -11,6 +11,16 @@
 
 ---
 
+### 💼 Work Experience
+- **AI & ML Intern** at **Edunet Foundation** (Jun 2025 - Jul 2025)
+  - Built a machine learning model to predict salaries with **84% accuracy**.
+  - Improved prediction accuracy by reducing error from 10% to 5% through hyperparameter tuning.
+- **Virtual Intern** at **Shell** (Apr 2025 - May 2025)
+  - Built a deep learning model to predict plant leaf diseases, improving accuracy from 80% to **87%**.
+  - Increased model performance by reducing data noise by 25%.
+
+---
+
 ### 🚀 Projects Showcase
 | Project | Description | Tech |
 |---|---|---|
@@ -23,12 +33,7 @@
 
 ### 🛠️ Skills & Certifications
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
-  <img src="https://shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge">
+  <img src="https://skillicons.dev/icons?i=python,java,sql,git,github,tensorflow,pytorch" alt="Skill Icons" />
 </p>
 
 - **Certifications:**
@@ -53,9 +58,9 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-  <a href="https://medium.com/@your-medium-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" /></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon" /></a>
+  <a href="https://medium.com/@your-medium-handle"><img src="https://skillicons.dev/icons?i=medium" alt="Medium Icon" /></a>
 </p>
 
 ---
