@@ -22,17 +22,11 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 ---
 
 ### 💡 A Quote:
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=“The best way to predict the future is to create it.”;– Abraham Lincoln" alt="Typing SVG" />
-</div>
-### 💡 A Quote:
+
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in&theme=dark" alt="Animated Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal&quote=Life is 10% what happens to you and 90% how you react to it.&author=Charles R. Swindoll&animation=grow_out_in" alt="Animated Quote" />
 </p>
-### 💡 A Quote & Time:
-<p align="center">
-  <img src="https://codestackr-readme-clock.vercel.app/api/card?theme=dark" alt="Live Digital Clock" />
-</p>
+
 ---
 
 
