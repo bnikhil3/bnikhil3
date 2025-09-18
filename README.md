@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Buchipalli Nikhilaanandam
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q8uUqGqM3z2Q/giphy.gif" alt="Pixel Art GIF" width="100%" />
+  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Coding GIF" width="100%" />
 </p>
 
 <h1 align="center">
@@ -23,7 +23,7 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 ### 💡 A Quote:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="A different quote" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln" alt="A different quote" width="100%" />
 </p>
 
 ---
