@@ -24,7 +24,7 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 ### 💡 A Quote:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Life is 10% what happens to you and 90% how you react to it.;-Charles R. Swindoll" alt="Animated Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal&quote=The best way to predict the future is to create it.&author=Abraham Lincoln" alt="A different quote" width="100%" />
 </p>
 
 
