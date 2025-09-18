@@ -77,23 +77,45 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 ---
 
+
 ### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhilaanandam/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" />
   </a>
   <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" height="30" />
   </a>
   <a href="mailto:nikhilaanandam@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" />
   </a>
   <a href="https://nikhilaanandam.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/googlechrome/000000" alt="Portfolio" height="30" />
   </a>
 </p>
+
 ---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhilaanandam/" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw3WJrZh6Q7nhWJpVoTMfYf_&ust=1758300798099000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCS4Ifj4o8DFQAAAAAdAAAAABAE" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" height="30" />
+  </a>
+  <a href="mailto:nikhilaanandam@example.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" />
+  </a>
+  <a href="https://nikhilaanandam.github.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/000000" alt="Portfolio" height="30" />
+  </a>
+</p>
+
+---
+
 
 ---
 
