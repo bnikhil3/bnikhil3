@@ -8,59 +8,82 @@
 
 ---
 
-<br>
-<p align="center">
-  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/about_me.png?raw=true" width="500" alt="About Me Section"> </picture></b>
-</p>
+### 👋 About Me
 <p>
-  [cite_start]I'm a motivated Computer Science undergraduate specializing in AI & ML, with hands-on experience in internships and academic projects[cite: 5, 7]. [cite_start]I am skilled in developing scalable and efficient software solutions using modern tools and data-driven methods, and I am enthusiastic about applying my technical knowledge to solve real-world challenges and contribute to innovative technology-driven solutions[cite: 6, 7].
+  I'm a motivated Computer Science undergraduate specializing in AI & ML, with hands-on experience in internships and academic projects. I am skilled in developing scalable and efficient software solutions using modern tools and data-driven methods, and I am enthusiastic about applying my technical knowledge to solve real-world challenges.
 </p>
 
 ---
 
-<br>
 <p align="center">
-  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/work_experience.png?raw=true" width="500" alt="Work Experience Section"> </picture></b>
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/15064642693496047995_0" alt="Neural Network Divider" width="700">
 </p>
+
+### 🚀 Work Experience
 
 | Role | Company | Dates | Key Achievements |
 |:---|:---|:---|:---|
-| **AI & ML Intern** | [cite_start]Edunet Foundation (AICTE & IBM SkillsBuild) [cite: 9] | [cite_start]Jun 2025 - Jul 2025 [cite: 10] | [cite_start]Built a machine learning model to predict salaries with 84% accuracy[cite: 11]. [cite_start]Improved prediction accuracy by reducing error from 10% to 5% through hyperparameter tuning and repeated testing[cite: 12]. |
-| **Virtual Intern** | [cite_start]Shell (AICTE & Edunet Foundation) [cite: 13] | [cite_start]Apr 2025 - May 2025 [cite: 15] | [cite_start]Built a machine learning model to predict plant leaf diseases, improving accuracy from 80% to 87%[cite: 16]. [cite_start]Increased model performance by reducing data noise by 25% through better preprocessing and optimization techniques[cite: 17]. |
+| **AI & ML Intern** | Edunet Foundation (AICTE & IBM SkillsBuild) | Jun 2025 - Jul 2025 | [cite_start]Built a machine learning model to predict salaries with 84% accuracy[cite: 11]. [cite_start]Improved prediction accuracy by reducing error from 10% to 5% through hyperparameter tuning and repeated testing[cite: 12]. |
+| **Virtual Intern** | Shell (AICTE & Edunet Foundation) | Apr 2025 - May 2025 | [cite_start]Built a machine learning model to predict plant leaf diseases, improving accuracy from 80% to 87% using Python and deep learning[cite: 16]. [cite_start]Increased model performance by reducing data noise by 25% through better preprocessing and optimization techniques[cite: 17]. |
 
 ---
 
-<br>
-<p align="center">
-  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/education.png?raw=true" width="500" alt="Education Section"> </picture></b>
-</p>
+### 🎓 Education
 
-* [cite_start]**B.Tech in Computer Science and Engineering (AI & ML)** [cite: 20]
-    * [cite_start]**Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology, Chennai, India** [cite: 19, 3]
-    * [cite_start]**CGPA:** 8.9/10 [cite: 21]
-    * [cite_start]**Relevant Courses:** Operating Systems, Software Engineering, AI, ML [cite: 22]
+* **B.Tech in Computer Science and Engineering (AI & ML)**
+    * **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology, Chennai, India**
+    * **CGPA:** 8.9/10
+    * [cite_start]**Relevant Courses:** Operating Systems, Software Engineering, AI, ML [cite: 19, 20, 21, 22]
 
 ---
 
-<br>
-<p align="center">
-  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/projects.png?raw=true" width="500" alt="Projects Section"> </picture></b>
-</p>
+### 🕰️ Projects: A Clockwork Showcase
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Speech Emotion Recognition** | [cite_start]An AI agent system for speech emotion recognition using a transformer-based model, achieving 99% classification accuracy[cite: 28]. [cite_start]It applies tools like Wav2Vec2 and core AI/ML concepts while developing backend components and agent infrastructure for intelligent systems[cite: 29]. | [cite_start]Python, Wav2Vec2, Docker [cite: 25] |
-| **Personalized Investment Recommendation System** | [cite_start]A recommendation engine that improved portfolio return optimization accuracy by 18%, tailoring suggestions based on user risk profile, income, and financial goals[cite: 32]. [cite_start]It also includes an interactive Flask dashboard with Plotly visualizations, increasing user engagement by 25% through real-time investment trend analysis and performance predictions[cite: 33]. | [cite_start]Python, Pandas, Scikit-learn, Flask, PostgreSQL, Plotly [cite: 31] |
-| **Blockchain Voting System** | Secure voting system with zero-knowledge verification | Python, Diffie-Hellman |
-| **Mini Food Ordering App** | React Native app with Firebase backend | React Native, Firebase |
-| **AI Cloud Cluster Detector** | Detects tropical clouds using satellite data | Python, TensorFlow |
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/your-username/your-project-repo">
+        <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Mini Food App" width="150" style="border-radius: 50%;">
+        <br><sub><b>Mini Food App</b></sub>
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://github.com/your-username/your-project-repo">
+        <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Cloud Detector" width="150" style="border-radius: 50%;">
+        <br><sub><b>Cloud Detector</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center" style="font-size: 2em; font-weight: bold; padding: 20px;">
+      <a href="https://github.com/your-username" style="color: #00FFAA; text-decoration: none;">
+        MY PROJECTS
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/your-username/your-project-repo">
+        <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Blockchain Voting" width="150" style="border-radius: 50%;">
+        <br><sub><b>Blockchain Voting</b></sub>
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://github.com/your-username/your-project-repo">
+        <img src="https://media.giphy.com/media/3o7TKLkA1A6y0WzU8k/giphy.gif" alt="Emotion Recognition" width="150" style="border-radius: 50%;">
+        <br><sub><b>Emotion Recognition</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<br>
-<p align="center">
-  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/skills.png?raw=true" width="500" alt="Skills Section"> </picture></b>
-</p>
+### 🛠️ Skills & Certifications
 
 #### Skills
 <p align="center">
@@ -82,11 +105,6 @@
 
 ---
 
-<br>
-<p align="center">
-  <b><picture> <img src="https://github.com/BuchipalliNikhilaanandam/Assets/blob/main/blog_posts.png?raw=true" width="500" alt="Blog Posts Section"> </picture></b>
-</p>
-
 ### ✍️ Latest Blog Posts
 ---
 
@@ -96,10 +114,10 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-  <a href="https://medium.com/@your-medium-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
-  <a href="mailto:vtu22714@veltech.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn Icon"></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter_2010_1.svg" width="40" alt="Twitter Icon"></a>
+  <a href="https://medium.com/@your-medium-handle"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Medium_logo_black_transparent.png" width="40" alt="Medium Icon"></a>
+  <a href="mailto:vtu22714@veltech.edu.in"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail Icon"></a>
 </p>
 
 ---
