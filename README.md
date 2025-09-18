@@ -62,65 +62,23 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhilaanandam/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/247eddbc-c360-4682-82e0-4fe63222fab6" />
   </a>
   <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+   <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/4e9dc5ed-13cc-41cf-abeb-d13d0720002a" />
+
   </a>
   <a href="mailto:nikhilaanandam@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://nikhilaanandam.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhilaanandam/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" height="30" />
-  </a>
-  <a href="mailto:nikhilaanandam@example.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" />
-  </a>
-  <a href="https://nikhilaanandam.github.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/000000" alt="Portfolio" height="30" />
-  </a>
-  <p align="center">
-  <img src="<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/ee44762b-9288-4c97-8c14-b4c9990b2c48" />
-" alt="LinkedIn Logo" height="30" />
-</p>
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhilaanandam/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw3WJrZh6Q7nhWJpVoTMfYf_&ust=1758300798099000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCS4Ifj4o8DFQAAAAAdAAAAABAE" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" height="30" />
-  </a>
-  <a href="mailto:nikhilaanandam@example.com">
-    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/247eddbc-c360-4682-82e0-4fe63222fab6" />
-
-  </a>
-  <a href="https://nikhilaanandam.github.io/" target="_blank">
    <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/f7de0b31-4e5b-44d3-98e5-060878cebb11" />
+  </a>
+  <a href="https://nikhilaanandam.github.io/" target="_blank">
+    <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/19f05f8b-3615-4e96-b08b-2d02268fabe9" />
 
   </a>
 </p>
 
----
+
+
 
 
 ---
