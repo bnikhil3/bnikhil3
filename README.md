@@ -62,16 +62,16 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhilaanandam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:nikhilaanandam@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://nikhilaanandam.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -81,19 +81,18 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhilaanandam/" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:nikhilaanandam@example.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://nikhilaanandam.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 ---
 
 ---
