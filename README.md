@@ -93,6 +93,10 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
   <a href="https://nikhilaanandam.github.io/" target="_blank">
     <img src="https://cdn.simpleicons.org/googlechrome/000000" alt="Portfolio" height="30" />
   </a>
+  <p align="center">
+  <img src="<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/ee44762b-9288-4c97-8c14-b4c9990b2c48" />
+" alt="LinkedIn Logo" height="30" />
+</p>
 </p>
 
 ---
