@@ -3,22 +3,30 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Buchipalli+Nikhilaanandam;AI+%26+ML+Enthusiast+%7C+Cybersecurity+Learner;Open+Source+Contributor+💻" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Buchipalli+Nikhilaanandam;AI+%26+ML+Enthusiast;Cybersecurity+Learner+💻" alt="Typing SVG"/>
 </h1>
 
 ---
 
-### 🚀 About Me
-Hi! I'm **Buchipalli Nikhilaanandam**, a final-year **Computer Science & Engineering** student from India. I specialize in **AI & ML**, **cybersecurity**, and **full-stack development**. I love creating innovative projects and contributing to open-source communities.  
+## 🌟 About Me
+Hello! I'm **Buchipalli Nikhilaanandam**, a final-year **Computer Science & Engineering** student from India specializing in **AI & ML** and **cybersecurity**.  
 
-- 🌱 Currently learning: **Generative AI, Cloud ML, DevOps**  
-- 💻 Tech Stack: **Python, Java, React Native, SQL, Firebase, AWS, Docker**  
+- 🌱 Currently exploring **Generative AI, Cloud ML, and Full-stack Development**  
+- 💻 Skilled in **Python, Java, React Native, SQL, Firebase, AWS, Docker**  
 - 🛠️ Tools: **Metasploit, Splunk, ELK Stack, Wireshark**  
-- 🎯 Focused on: AI research, speech emotion recognition, blockchain apps  
+- 🎯 Interested in **AI research, speech emotion recognition, blockchain apps**  
 
 ---
 
-### 🛠️ Skills & Tools
+## 🚀 Creative Sections / Ideas
+
+### 1️⃣ Animated Typing Intro
+Interactive typing effect introducing your name, skills, and passions.  
+*(Already implemented at the top with `readme-typing-svg`)*
+
+---
+
+### 2️⃣ Skill Graph / Tool Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -31,32 +39,32 @@ Hi! I'm **Buchipalli Nikhilaanandam**, a final-year **Computer Science & Enginee
 
 ---
 
-### ✨ Fun Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Speech Emotion Recognition** | Recognizes emotion from speech using ML | Python, Wav2Vec2, PyTorch |
-| **Blockchain Voting System** | Secure voting system with zero-knowledge verification | Python, Diffie-Hellman |
-| **Mini Food Ordering App** | React Native app with Firebase backend | React Native, Firebase |
-| **AI Cloud Cluster Detector** | Detects tropical clouds using satellite data | Python, TensorFlow |
-| **Cybersecurity Lab Setup** | Network & cloud security monitoring | Metasploit, Wireshark, Splunk |
+### 3️⃣ Interactive Projects Showcase
+| Project | Description | Tech | GIF/Demo |
+|---------|-------------|------|----------|
+| **Speech Emotion Recognition** | Recognizes emotion from speech | Python, Wav2Vec2, PyTorch | ![Demo](https://media.giphy.com/media/3o7TKLkA1A6y0WzU8k/giphy.gif) |
+| **Blockchain Voting System** | Secure voting system | Python, Diffie-Hellman | ![Demo](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
+| **Mini Food Ordering App** | React Native app | React Native, Firebase | ![Demo](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif) |
+| **AI Cloud Cluster Detector** | Detects tropical clouds | Python, TensorFlow | ![Demo](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
 
 ---
 
-### 🌟 GitHub Stats
-
+### 4️⃣ GitHub Stats & Visitor Counter
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuchipalliNikhilaanandam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuchipalliNikhilaanandam&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BuchipalliNikhilaanandam&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuchipalliNikhilaanandam&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BuchipalliNikhilaanandam&style=flat-square&color=green" alt="Visitor Count"/>
 </p>
 
 ---
 
-### 🎨 Fun & Interactive
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKLkA1A6y0WzU8k/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="250" />
-</p>
+### 💡 Additional Unique Ideas
+1. **Dynamic Blog Posts Feed**: Display latest Medium/blog articles automatically with GitHub Actions.  
+2. **Interactive Particle Background**: Use GIF or PNG overlay to simulate a moving particle effect in header.  
+3. **Hover Effects on Badges**: Add `title` attributes to badges for fun facts about your skills.  
+4. **Project Carousel**: Showcase projects with clickable links or GIF previews for dynamic look.
 
 ---
 
@@ -75,15 +83,3 @@ Hi! I'm **Buchipalli Nikhilaanandam**, a final-year **Computer Science & Enginee
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🖌️ Ideas to Make It More Unique
-- Add **dynamic blog posts** with [GitHub Actions](https://github.com/marketplace?type=actions)  
-- Use **animated SVGs** from [Shields.io](https://shields.io/) for live stats  
-- Include **visitor count badges**  
-- Add **interactive project GIFs or demo videos**  
-- Showcase **latest research publications**  
-
----
-
