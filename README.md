@@ -16,12 +16,13 @@
 
 ---
 
-## 🚀 Projects
-| Project | Demo |
-|---------|------|
-| Mini Food App | [![Demo](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)](https://github.com/BuchipalliNikhilaanandam/MiniFoodApp) |
-| Blockchain Voting | [![Demo](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)](https://github.com/BuchipalliNikhilaanandam/BlockchainVoting) |
-| AI Cloud Detector | [![Demo](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)](https://github.com/BuchipalliNikhilaanandam/AICloudDetector) |
+### 3️⃣ Interactive Projects Showcase
+| Project | Description | Tech | GIF/Demo |
+|---------|-------------|------|----------|
+| **Speech Emotion Recognition** | Recognizes emotion from speech | Python, Wav2Vec2, PyTorch | ![Demo](https://media.giphy.com/media/3o7TKLkA1A6y0WzU8k/giphy.gif) |
+| **Blockchain Voting System** | Secure voting system | Python, Diffie-Hellman | ![Demo](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
+| **Mini Food Ordering App** | React Native app | React Native, Firebase | ![Demo](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif) |
+| **AI Cloud Cluster Detector** | Detects tropical clouds | Python, TensorFlow | ![Demo](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
 
 ---
 
