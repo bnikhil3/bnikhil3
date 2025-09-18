@@ -1,12 +1,14 @@
-# Hi there 👋 I'm Buchipalli Nikhilaanandam
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Buchipalli+Nikhilaanandam;AI+%26+ML+Enthusiast;Active+Learner+💻" alt="Typing SVG"/>
+</h1>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Coding GIF" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Buchipalli+Nikhilaanandam;AI+%26+ML+Enthusiast;Cybersecurity+Learner+💻" alt="Typing SVG"/>
-</h1>
+
+
 
 ---
 
@@ -22,10 +24,12 @@ I'm a **final-year Computer Science & Engineering student** specializing in **AI
 ---
 
 ### 💡 A Quote:
-
-
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in&theme=dark" alt="Animated Quote" />
+  <img src="https://quotes-api-self.vercel.app/quote" alt="Quote of the day" />
+</p>
+### 💡 A Quote:
+<p align="center">
+  <img src="https://github-readme-daily-quotes.vercel.app/api?theme=dark&category=motivational" alt="Daily Motivational Quote" />
 </p>
 
 
