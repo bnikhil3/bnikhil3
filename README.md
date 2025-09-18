@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Particle Background" width="100%">
+  <img src="https://raw.githubusercontent.com/BuchipalliNikhilaanandam/Assets/main/3d_header.png" alt="3D AI Header" width="100%">
 </p>
 
 <h1 align="center">
@@ -17,23 +17,25 @@
 ---
 
 ### 3️⃣ Interactive Projects Showcase
-| Project | Description | Tech | GIF/Demo |
-|---------|-------------|------|----------|
+<div align="center" style="overflow-x:auto;">
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
 | **Speech Emotion Recognition** | Recognizes emotion from speech | Python, Wav2Vec2, PyTorch | ![Demo](https://media.giphy.com/media/3o7TKLkA1A6y0WzU8k/giphy.gif) |
 | **Blockchain Voting System** | Secure voting system | Python, Diffie-Hellman | ![Demo](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
 | **Mini Food Ordering App** | React Native app | React Native, Firebase | ![Demo](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif) |
 | **AI Cloud Cluster Detector** | Detects tropical clouds | Python, TensorFlow | ![Demo](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
+</div>
 
 ---
 
 ## 🛠 Skills
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge)
-  ![Java](https://img.shields.io/badge/Java-85%25-yellow?style=for-the-badge)
-  ![React](https://img.shields.io/badge/React-80%25-blue?style=for-the-badge)
-  ![Firebase](https://img.shields.io/badge/Firebase-75%25-orange?style=for-the-badge)
-  ![AWS](https://img.shields.io/badge/AWS-70%25-red?style=for-the-badge)
-  ![Docker](https://img.shields.io/badge/Docker-80%25-lightblue?style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-85%25-yellow?style=for-the-badge&logo=java&logoColor=white)
+  ![React](https://img.shields.io/badge/React-80%25-blue?style=for-the-badge&logo=react&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-75%25-orange?style=for-the-badge&logo=firebase&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-70%25-red?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-80%25-lightblue?style=for-the-badge&logo=docker&logoColor=white)
 </p>
 
 ---
@@ -58,7 +60,7 @@
 ---
 
 ## 📝 Latest Blog Posts
-<!-- Dynamic blog feed via GitHub Action will populate here -->
+<!-- Dynamic blog feed will be auto-updated using GitHub Action -->
 
 ---
 
